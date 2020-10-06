@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+.data-card-container{
+    padding: 24px;
+    background: white;
+}
+.data-card-container h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}

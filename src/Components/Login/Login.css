@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+.logo img{
+    width: 20%;
+}
+.login-bg{
+    background-color: #F8FAFC;
+}
+.logo{
+    padding: 40px 0px 65px 0px;
+}
+.login-area{
+    padding-bottom: 110px;
+}
+.login-content{
+    width: 70%;
+    padding: 100px 0;
+    border: 1px solid #C7C7C7;
+    background-color: white;
+}
+.login-content h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(37, 37, 37);
+}
+.login-content button{
+    border: 1px solid #C7C7C7;
+    padding: 14px 110px 14px 110px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 50px;
+    margin-top: 30px;
+    background-color: white;
+    transition: .3s;
+
+}
+.login-content button:hover{
+    border: 1px solid #C7C7C7;
+    background-color: #E94235;
+    color: white;
+}
+.icon{
+    font-size: 22px;
+    margin-right:20px ;
+}
+.login-content p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
